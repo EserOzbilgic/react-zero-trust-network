@@ -30,7 +30,8 @@ This project includes:
 
 ---
 
-## 📸 Screenshots
+## 📸 Video Link
+https://youtu.be/wQUmsyo0KMQ
 
 
 
