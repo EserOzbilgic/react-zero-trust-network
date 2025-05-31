@@ -32,7 +32,7 @@ This project includes:
 
 ## 📸 Screenshots
 
-> _You can add animated GIFs or screenshots here for better visualization._
+
 
 ---
 
